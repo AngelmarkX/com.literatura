@@ -1,8 +1,4 @@
 
-Aquí tienes un ejemplo de README para tu proyecto en GitHub:
-
-markdown
-Copiar código
 # Proyecto Literatura
 
 Este proyecto es una aplicación de consola para gestionar libros y autores utilizando una integración con el API de Gutendex. Está desarrollado en Java utilizando Spring Boot, Hibernate y RESTful services.
